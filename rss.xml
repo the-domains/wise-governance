@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wise Governance]]></title>
+        <description><![CDATA[Wise Governance]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 23:38:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Wise Governance offers training, compliance and referral services to Indigenous and Not-for-Profit boards. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d7a2d7-a12c-4ac0-b2e1-55cde10d8fbe.jpg"></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">3bb5e708-2722-4f8d-9a6d-f4963b4b5eaf</guid>
+            <pubDate>Sun, 10 Jan 2016 23:38:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
