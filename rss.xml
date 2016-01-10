@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wise Governance]]></title>
         <description><![CDATA[Wise Governance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wise-governance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 23:38:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 23:38:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wise-governance/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Referral]]></title>
+            <description><![CDATA[<article><h1>Referral</h1><p>Wise Governance understands its own limits to assist</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81218528-5df7-4c00-bbc1-0aeb648e64d6.png"></article>]]></description>
+            <link>https://thegrid.ai/wise-governance/referral/index.html</link>
+            <guid isPermaLink="false">c50e2aeb-b395-494a-8319-dd2b6b3bda65</guid>
+            <pubDate>Sun, 10 Jan 2016 23:38:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>Wise Governance offers training, compliance and referral services to Indigenous and Not-for-Profit boards. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d7a2d7-a12c-4ac0-b2e1-55cde10d8fbe.jpg"></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/wise-governance/about/index.html</link>
             <guid isPermaLink="false">3bb5e708-2722-4f8d-9a6d-f4963b4b5eaf</guid>
             <pubDate>Sun, 10 Jan 2016 23:38:00 GMT</pubDate>
         </item>
