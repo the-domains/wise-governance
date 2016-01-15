@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T23:44:28.658Z'
+datePublished: '2016-01-15T23:44:28.698Z'
 dateModified: '2016-01-15T23:44:25.573Z'
 title: Compliance
 author: []
