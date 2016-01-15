@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T03:34:48.282Z'
-dateModified: '2016-01-11T03:34:34.818Z'
-title: Indigenous Governance
+datePublished: '2016-01-15T22:44:58.699Z'
+dateModified: '2016-01-15T22:44:51.202Z'
+title: Education
 author: []
+sourcePath: _posts/2016-01-11-indigenous-governance.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-indigenous-governance.md
-published: true
 url: indigenous-governance/index.html
 _type: WebPage
 
