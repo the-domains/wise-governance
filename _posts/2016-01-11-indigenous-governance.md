@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T00:17:49.428Z'
-dateModified: '2016-01-16T00:17:49.049Z'
+datePublished: '2016-01-16T00:17:49.617Z'
+dateModified: '2016-01-16T00:17:49.428Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
