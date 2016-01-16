@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wise Governance]]></title>
+        <description><![CDATA[Wise Governance]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Jan 2016 06:15:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Education]]></title>
+            <description><![CDATA[<article><h1>Education</h1><p>Developing Indigenous directors governance
+knowledge has been a passion of both Scott and Annie McCall for over a decade.
+Scott and Annie have had the privilege to be able to work with many Indigenous
+elders who consistently challenge them to continually break down western law
+and governance concepts to make them understandable.</p></article>]]></description>
+            <link>undefinedindigenous-governance/index.html</link>
+            <guid isPermaLink="false">c4d5e0f6-aae9-43b6-97f1-079b41bcbb18</guid>
+            <pubDate>Sat, 16 Jan 2016 06:14:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
