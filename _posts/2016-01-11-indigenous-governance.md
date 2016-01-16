@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T00:19:41.068Z'
-dateModified: '2016-01-16T00:19:40.697Z'
+datePublished: '2016-01-16T00:25:05.166Z'
+dateModified: '2016-01-16T00:25:01.348Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: indigenous-governance/index.html
-_type: Article
+_type: WebPage
 
 ---
 Developing Indigenous directors governance
