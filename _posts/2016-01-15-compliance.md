@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T00:15:42.382Z'
-dateModified: '2016-01-16T00:15:42.098Z'
+datePublished: '2016-01-16T00:17:32.917Z'
+dateModified: '2016-01-16T00:17:29.519Z'
 title: Compliance
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: compliance/index.html
-_type: WebPage
+_type: Article
 
 ---
 Compliance blah
