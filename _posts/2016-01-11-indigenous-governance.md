@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T00:19:41.016Z'
+datePublished: '2016-01-16T00:19:41.068Z'
 dateModified: '2016-01-16T00:19:40.697Z'
 title: Education
 author: []
