@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T00:17:50.261Z'
-dateModified: '2016-01-16T00:17:50.025Z'
+datePublished: '2016-01-16T00:19:39.621Z'
+dateModified: '2016-01-16T00:19:34.596Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
