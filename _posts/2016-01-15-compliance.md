@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T00:15:41.972Z'
-dateModified: '2016-01-16T00:15:41.570Z'
+datePublished: '2016-01-16T00:15:42.098Z'
+dateModified: '2016-01-16T00:15:41.846Z'
 title: Compliance
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
