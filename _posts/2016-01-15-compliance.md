@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T00:14:02.320Z'
-dateModified: '2016-01-16T00:14:02.119Z'
+datePublished: '2016-01-16T00:15:41.498Z'
+dateModified: '2016-01-16T00:15:20.448Z'
 title: Compliance
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
