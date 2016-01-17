@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-01-17T04:08:26.937Z'
-dateModified: '2016-01-17T04:08:26.700Z'
+datePublished: '2016-01-17T04:12:52.044Z'
+dateModified: '2016-01-17T04:12:46.007Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -24,22 +24,6 @@ _type: WebPage
 ---
 # Education
 
-## 1\. Roles and Responsibilities of Directors- lets start from the basics.
+Wise Governance commences at what Directors know already and builds on that knowledge. 
 
-## 2\. Board Composition- use them or loose them.
-
-## 3\. Purpose and Strategy- what does your constitution and strategic plan say; What should it say?
-
-## 4\. Risk Management
-
-## 5\. Organisational Performance- how are we going?
-
-## 6\. Board Effectiveness- are we letting the team down? How can we improve?
-
-## 7\. Integrity and Accountability
-
-## 8\. Building a strong organisation
-
-## 9\. Culture and Ethics- comes from the top
-
-## 10\. Engagement
+There is not a one size fits all.
