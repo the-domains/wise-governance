@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-01-17T01:23:02.115Z'
-dateModified: '2016-01-17T01:23:01.896Z'
+datePublished: '2016-01-17T01:23:02.086Z'
+dateModified: '2016-01-17T01:23:01.897Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
