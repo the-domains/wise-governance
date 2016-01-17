@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to do?
-datePublished: '2016-01-17T00:52:30.702Z'
-dateModified: '2016-01-17T00:52:30.526Z'
+datePublished: '2016-01-17T01:15:45.731Z'
+dateModified: '2016-01-17T01:15:41.784Z'
 title: Compliance
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
@@ -22,5 +22,4 @@ url: compliance/index.html
 _type: Article
 
 ---
-Compliance blah
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf1af9d-5395-4bb9-acd7-111f42fa04c1.png)
+## Compliance ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf1af9d-5395-4bb9-acd7-111f42fa04c1.png)
