@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-01-17T04:12:54.365Z'
-dateModified: '2016-01-17T04:12:53.148Z'
+datePublished: '2016-01-17T04:14:03.626Z'
+dateModified: '2016-01-17T04:14:03.134Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -26,4 +26,4 @@ _type: WebPage
 
 Wise Governance commences at what Directors know already and builds on that knowledge. 
 
-There is not a one size fits all.
+There is not a one-size-fits-all approach to governance education.
