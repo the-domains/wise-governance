@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-01-17T01:23:05.174Z'
-dateModified: '2016-01-17T01:23:04.750Z'
+datePublished: '2016-01-17T04:08:26.681Z'
+dateModified: '2016-01-17T04:08:21.778Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -22,43 +22,24 @@ url: indigenous-governance/index.html
 _type: WebPage
 
 ---
-## Education
+# Education
 
-Developing Indigenous directors governance
-knowledge has been a passion of both Scott and Annie McCall for over a decade.
-Scott and Annie have had the privilege to be able to work with many Indigenous
-elders who consistently challenge them to continually break down western law
-and governance concepts to make them understandable.
+## 1\. Roles and Responsibilities of Directors- lets start from the basics.
 
-Starting from meta-narratives (the big
-stories) of western jurisprudence (philosophy of law), Mulga Gidgee builds a
-comprehensive picture of power and how it is exercised in law, society,
-politics and organisations, consistently encouraging participants to reflect on
-their own cultural governance. From those foundations the training then moves
-to the Australian legal system and where the particular organisation's
-governance structure fits in. It then looks at legal personality, duties of
-directors, and the constitution of the organisation inspiring the on-going
-conversations about governance, the Board and what is in the best interest of
-the organisation.
+## 2\. Board Composition- use them or loose them.
 
-Mulga Gidgee's training methodology pivots
-on user-driven content. At our core, we recognise the thousands of years of
-governance knowledge embedded in all our training participants. Using a
-narrative-based training methodology responds to the often-varying literacy
-levels in remote communities.
+## 3\. Purpose and Strategy- what does your constitution and strategic plan say; What should it say?
 
-Governance projects have included:
+## 4\. Risk Management
 
-Groote Eylandt Aboriginal Trust, Groote
-Eylandt NT
+## 5\. Organisational Performance- how are we going?
 
-Demed Association Inc, Gunbalanya NT
+## 6\. Board Effectiveness- are we letting the team down? How can we improve?
 
-Maningrida Local Reference Group,
-Maningrida NT
+## 7\. Integrity and Accountability
 
-Murrwanyan Aboriginal Corporation,
-Minjilang NT
+## 8\. Building a strong organisation
 
-Bawinanga Aboriginal Corporation,
-Maningrida NT
+## 9\. Culture and Ethics- comes from the top
+
+## 10\. Engagement
