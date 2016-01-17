@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-16T06:15:24.925Z'
-dateModified: '2016-01-16T06:15:22.041Z'
+description: What your Board needs to do?
+datePublished: '2016-01-16T22:53:29.988Z'
+dateModified: '2016-01-16T22:53:26.261Z'
 title: Compliance
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
