@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to do?
-datePublished: '2016-01-17T07:18:37.735Z'
-dateModified: '2016-01-17T07:18:33.524Z'
+datePublished: '2016-01-17T07:18:37.884Z'
+dateModified: '2016-01-17T07:18:37.735Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
