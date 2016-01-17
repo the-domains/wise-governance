@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-01-17T00:52:08.034Z'
-dateModified: '2016-01-17T00:52:07.805Z'
+datePublished: '2016-01-17T01:16:26.450Z'
+dateModified: '2016-01-17T01:16:21.701Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -22,6 +22,8 @@ url: indigenous-governance/index.html
 _type: Article
 
 ---
+## Education
+
 Developing Indigenous directors governance
 knowledge has been a passion of both Scott and Annie McCall for over a decade.
 Scott and Annie have had the privilege to be able to work with many Indigenous
