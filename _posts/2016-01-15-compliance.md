@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to do?
-datePublished: '2016-01-18T11:04:58.626Z'
-dateModified: '2016-01-18T11:04:54.638Z'
+datePublished: '2016-01-18T11:13:48.357Z'
+dateModified: '2016-01-18T11:13:10.481Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
@@ -24,15 +24,20 @@ _type: WebPage
 ---
 # Compliance 
 
-What does your Board need to do to comply with the law, your own policies and best practice?
+Wise Governance can assist by firstly evaluating the gap
+between where the organisation is and where it should be with regard to compliance. Wise 
+Governance can then tweak existing and/or develop new systems that can fill 
+that gap and give your board peace of mind.
 
-Are risk management systems in place and are they being used?
+_What does your Board need to do to comply with the law, your own policies and best practice?_
 
-Is the organisation as a whole complying? How do you know?
+_Are risk management systems in place and are they being used?_
 
-Does your constitution need to be amended?
+_Is the organisation as a whole complying? How do you know?_
 
-What are the impacts of non-compliance? 
+_Does your constitution need to be amended?_
 
-What are your own time constraints and where is the balance?
+_What are the impacts of non-compliance? _
+
+_What are your own time constraints and where is the balance?_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf1af9d-5395-4bb9-acd7-111f42fa04c1.png)
