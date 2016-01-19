@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to do?
-datePublished: '2016-01-18T23:48:24.017Z'
-dateModified: '2016-01-18T23:48:20.203Z'
+datePublished: '2016-01-19T22:08:19.358Z'
+dateModified: '2016-01-19T22:06:41.274Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
@@ -24,12 +24,13 @@ _type: WebPage
 ---
 # Compliance 
 
-Wise Governance can assist by firstly evaluating the gap
-between where the organisation is and where it should be with regard to compliance. Wise 
-Governance can then tweak existing and/or develop new systems that can fill 
-that gap and give your Board peace of mind.
+Wise Governance can assist by firstly evaluating the gap between where
+the organisation is and where it should be with regards to compliance. Wise
+Governance can then tweak existing and/or develop new systems that can fill
+that gap, providing your Board with full peace of mind.
 
-_What does your Board need to do to comply with the law, your own policies and best practice?_
+_What does your Board need to do to comply with the law, your own policies
+and best practice?_
 
 _Are risk management systems in place and are they being used?_
 
