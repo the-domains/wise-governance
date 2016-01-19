@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-01-19T22:08:30.540Z'
+datePublished: '2016-01-19T22:08:30.549Z'
 dateModified: '2016-01-19T22:06:09.420Z'
 title: Education
 author: []
