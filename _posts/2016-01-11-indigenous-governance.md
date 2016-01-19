@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-01-17T10:07:28.149Z'
-dateModified: '2016-01-17T10:07:24.606Z'
+datePublished: '2016-01-19T22:08:30.540Z'
+dateModified: '2016-01-19T22:06:09.420Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -24,11 +24,14 @@ _type: WebPage
 ---
 # Education
 
-Wise Governance education commences at what a Director already knows and builds on that knowledge.
+Wise Governance education begins by understanding what a Director already
+knows and then builds on that knowledge.
 
-Wise Governance will work with your Board, at their pace and at their level to maximise impact. 
+Wise Governance will work with your Board, at their pace and at their
+level, in order to maximise impact. 
 
-Foundational, practical and/or strategic governance knowledge and skill levels can be addressed.
+Foundational, practical and/or strategic governance knowledge and skill
+levels can be addressed.
 
-There is not a one-size-fits-all approach to governance education.
+There is no one-size-fits-all approach to governance education.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ac4c6e-7c25-449d-9fb0-1895e7f8a633.jpg)
