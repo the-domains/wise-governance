@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-02-28T08:18:50.343Z'
-dateModified: '2016-02-28T08:18:40.307Z'
+datePublished: '2016-02-28T08:19:45.715Z'
+dateModified: '2016-02-28T08:19:18.447Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -36,5 +36,3 @@ levels can be addressed.
 
 There is no one-size-fits-all approach to governance education.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ac4c6e-7c25-449d-9fb0-1895e7f8a633.jpg)
-
-##
