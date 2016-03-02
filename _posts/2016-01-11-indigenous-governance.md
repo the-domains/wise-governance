@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-02-28T09:51:07.648Z'
-dateModified: '2016-02-28T09:46:47.908Z'
+datePublished: '2016-03-02T23:10:56.395Z'
+dateModified: '2016-03-02T23:07:32.845Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -34,4 +34,4 @@ Foundational, practical and/or strategic governance knowledge and skill
 levels can be addressed.
 
 There is no one-size-fits-all approach to governance education.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3cd522e4cf3a27911019236fcd4d148dc46552b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc82d9cb-ac10-4fbc-b436-ad37fd2edbb1.jpg)
