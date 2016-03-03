@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: What your Board needs to do?
-datePublished: '2016-03-03T07:19:49.397Z'
-dateModified: '2016-03-03T07:19:33.065Z'
+datePublished: '2016-03-03T07:24:24.383Z'
+dateModified: '2016-03-03T07:24:16.638Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
