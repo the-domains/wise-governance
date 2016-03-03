@@ -23,7 +23,7 @@ color:
     - '#ff8200'
     - '#7c340b'
   brandStrength: 1
-  lightness: 0.875
-  saturation: 1
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
