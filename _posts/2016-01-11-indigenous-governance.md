@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-03-03T02:03:58.947Z'
-dateModified: '2016-03-03T02:03:44.012Z'
+datePublished: '2016-03-03T06:55:01.183Z'
+dateModified: '2016-03-03T06:53:21.199Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: indigenous-governance/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Education
