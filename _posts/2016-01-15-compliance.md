@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: What your Board needs to do?
-datePublished: '2016-03-03T07:24:24.383Z'
-dateModified: '2016-03-03T07:24:16.638Z'
+datePublished: '2016-03-03T07:27:53.083Z'
+dateModified: '2016-03-03T07:27:18.883Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: compliance/index.html
+_type: Article
 
 ---
 # Compliance 
