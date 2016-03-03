@@ -3,11 +3,11 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: What your Board needs to know?
-datePublished: '2016-03-03T07:01:43.004Z'
-dateModified: '2016-03-03T07:01:31.264Z'
+datePublished: '2016-03-03T07:03:12.028Z'
+dateModified: '2016-03-03T07:02:55.591Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
