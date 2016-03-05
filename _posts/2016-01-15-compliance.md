@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: What your Board needs to do?
-datePublished: '2016-03-05T03:05:31.968Z'
-dateModified: '2016-03-05T03:05:28.829Z'
+datePublished: '2016-03-05T03:20:31.995Z'
+dateModified: '2016-03-05T03:20:20.664Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
