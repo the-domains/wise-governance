@@ -5,9 +5,13 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: What your Board needs to do?
-datePublished: '2016-03-05T04:20:38.017Z'
-dateModified: '2016-03-05T04:20:31.487Z'
+description: |-
+  Wise Governance can assist by firstly evaluating the gap between where
+  the organisation is and where it should be with regards to compliance. Wise
+  Governance can then tweak existing and/or develop new systems that can fill
+  that gap, providing your Board with full peace of mind.
+datePublished: '2016-03-12T22:11:04.715Z'
+dateModified: '2016-03-12T22:10:46.642Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
@@ -41,4 +45,6 @@ _Does your constitution need to be amended?_
 _What are the impacts of non-compliance? _
 
 _What are your own time constraints and where is the balance?_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf1af9d-5395-4bb9-acd7-111f42fa04c1.png)
+
+__
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4350c2bf-96fd-4e90-a358-1f82004f1599.png)
