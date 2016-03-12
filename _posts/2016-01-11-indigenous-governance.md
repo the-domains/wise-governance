@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: What your Board needs to know?
-datePublished: '2016-03-05T04:19:37.323Z'
-dateModified: '2016-03-05T04:19:30.711Z'
+description: There is no one-size-fits-all approach to governance education.
+datePublished: '2016-03-12T22:17:31.261Z'
+dateModified: '2016-03-12T22:11:42.403Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: education/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Education
