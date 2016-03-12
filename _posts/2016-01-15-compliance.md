@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
@@ -10,8 +11,8 @@ description: |-
   the organisation is and where it should be with regards to compliance. Wise
   Governance can then tweak existing and/or develop new systems that can fill
   that gap, providing your Board with full peace of mind.
-datePublished: '2016-03-12T22:11:04.715Z'
-dateModified: '2016-03-12T22:10:46.642Z'
+datePublished: '2016-03-12T22:17:25.065Z'
+dateModified: '2016-03-12T22:12:02.403Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
@@ -22,8 +23,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: compliance/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Compliance 
