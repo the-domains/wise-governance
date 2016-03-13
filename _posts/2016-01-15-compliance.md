@@ -11,8 +11,8 @@ description: |-
   the organisation is and where it should be with regards to compliance. Wise
   Governance can then tweak existing and/or develop new systems that can fill
   that gap, providing your Board with full peace of mind.
-datePublished: '2016-03-12T22:17:25.065Z'
-dateModified: '2016-03-12T22:12:02.403Z'
+datePublished: '2016-03-13T23:54:12.526Z'
+dateModified: '2016-03-13T23:39:21.140Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
@@ -47,4 +47,4 @@ _What are the impacts of non-compliance? _
 _What are your own time constraints and where is the balance?_
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4350c2bf-96fd-4e90-a358-1f82004f1599.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ff1ff8993abf357672c0e389b8a4211e04c1a88.png)
