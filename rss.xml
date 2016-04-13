@@ -4,7 +4,7 @@
         <description><![CDATA[Wise Governance]]></description>
         <link>http://www.wisegovernance.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 22:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 22:07:09 GMT</lastBuildDate>
         <atom:link href="http://www.wisegovernance.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Annie McCall LLB GAICD ]]></title>
@@ -37,13 +37,6 @@ required. </p></article>]]></description>
             <link>http://www.wisegovernance.com.au/education/index.html</link>
             <guid isPermaLink="false">c4d5e0f6-aae9-43b6-97f1-079b41bcbb18</guid>
             <pubDate>Wed, 13 Apr 2016 22:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>Call Annie +61 (0)4 222 444 62, or email annie@wisegovernance.com.au</p></article>]]></description>
-            <link>http://www.wisegovernance.com.au/contact/index.html</link>
-            <guid isPermaLink="false">71bea793-3c4f-4e6e-934c-fa342485d8e2</guid>
-            <pubDate>Wed, 13 Apr 2016 08:41:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
