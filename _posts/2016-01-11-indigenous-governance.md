@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: There is no one-size-fits-all approach to governance education.
-datePublished: '2016-03-12T22:17:31.261Z'
-dateModified: '2016-03-12T22:11:42.403Z'
+datePublished: '2016-04-13T08:35:38.326Z'
+dateModified: '2016-04-13T08:35:27.519Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-11-indigenous-governance.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: education/index.html
+_type: Article
 
 ---
 # Education
