@@ -4,8 +4,15 @@
         <description><![CDATA[Wise Governance]]></description>
         <link>http://www.wisegovernance.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 22:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 02:06:17 GMT</lastBuildDate>
         <atom:link href="http://www.wisegovernance.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Education]]></title>
+            <description><![CDATA[<article><h1>Education</h1><p>There is no one-size-fits-all approach to governance education.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d4466a7ea464b4c683dcf8a4588275714f2996a.jpg"></article>]]></description>
+            <link>http://www.wisegovernance.com.au/education/index.html</link>
+            <guid isPermaLink="false">c4d5e0f6-aae9-43b6-97f1-079b41bcbb18</guid>
+            <pubDate>Thu, 14 Apr 2016 02:05:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Annie McCall LLB GAICD ]]></title>
             <description><![CDATA[<article><h1>Annie McCall LLB GAICD </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c95f440dce487106ab171c3f371be90641c7b0eb.jpg"></article>]]></description>
@@ -30,13 +37,6 @@ required. </p></article>]]></description>
             <link>http://www.wisegovernance.com.au/referral/index.html</link>
             <guid isPermaLink="false">c50e2aeb-b395-494a-8319-dd2b6b3bda65</guid>
             <pubDate>Wed, 13 Apr 2016 22:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Education]]></title>
-            <description><![CDATA[<article><h1>Education</h1><p>There is no one-size-fits-all approach to governance education.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d4466a7ea464b4c683dcf8a4588275714f2996a.jpg"></article>]]></description>
-            <link>http://www.wisegovernance.com.au/education/index.html</link>
-            <guid isPermaLink="false">c4d5e0f6-aae9-43b6-97f1-079b41bcbb18</guid>
-            <pubDate>Wed, 13 Apr 2016 22:04:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
