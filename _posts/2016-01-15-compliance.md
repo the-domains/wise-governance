@@ -10,8 +10,8 @@ description: |-
   the organisation is and where it should be with regards to compliance. Wise
   Governance can then tweak existing and/or develop new systems that can fill
   that gap, providing your Board with full peace of mind.
-datePublished: '2016-04-14T02:06:37.477Z'
-dateModified: '2016-04-13T23:19:03.765Z'
+datePublished: '2016-04-14T02:08:41.259Z'
+dateModified: '2016-04-14T02:07:56.632Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
