@@ -4,8 +4,16 @@
         <description><![CDATA[Wise Governance]]></description>
         <link>http://www.wisegovernance.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 03:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 03:04:17 GMT</lastBuildDate>
         <atom:link href="http://www.wisegovernance.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Referral]]></title>
+            <description><![CDATA[<article><h1>Referral</h1><p>Wise Governance understands that sometimes, a specialist referral is
+required. </p></article>]]></description>
+            <link>http://www.wisegovernance.com.au/referral/index.html</link>
+            <guid isPermaLink="false">c50e2aeb-b395-494a-8319-dd2b6b3bda65</guid>
+            <pubDate>Fri, 15 Apr 2016 03:03:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Compliance ]]></title>
             <description><![CDATA[<article><h1>Compliance </h1><p>Wise Governance can assist by firstly evaluating the gap between where
@@ -29,14 +37,6 @@ that gap, providing your Board with full peace of mind.</p></article>]]></descri
             <link>http://www.wisegovernance.com.au/about/index.html</link>
             <guid isPermaLink="false">0b7202eb-ba8e-44de-95a6-b372b492a196</guid>
             <pubDate>Fri, 15 Apr 2016 00:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Referral]]></title>
-            <description><![CDATA[<article><h1>Referral</h1><p>Wise Governance understands that sometimes, a specialist referral is
-required. </p></article>]]></description>
-            <link>http://www.wisegovernance.com.au/referral/index.html</link>
-            <guid isPermaLink="false">c50e2aeb-b395-494a-8319-dd2b6b3bda65</guid>
-            <pubDate>Thu, 14 Apr 2016 02:09:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
