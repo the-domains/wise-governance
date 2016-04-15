@@ -4,8 +4,18 @@
         <description><![CDATA[Wise Governance]]></description>
         <link>http://www.wisegovernance.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 03:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 03:03:30 GMT</lastBuildDate>
         <atom:link href="http://www.wisegovernance.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Compliance ]]></title>
+            <description><![CDATA[<article><h1>Compliance </h1><p>Wise Governance can assist by firstly evaluating the gap between where
+the organisation is and where it should be with regards to compliance. Wise
+Governance can then tweak existing and/or develop new systems that can fill
+that gap, providing your Board with full peace of mind.</p></article>]]></description>
+            <link>http://www.wisegovernance.com.au/compliance/index.html</link>
+            <guid isPermaLink="false">61ba8977-87a6-44de-9192-208ec9823c42</guid>
+            <pubDate>Fri, 15 Apr 2016 03:03:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Education]]></title>
             <description><![CDATA[<article><h1>Education</h1><p>There is no one-size-fits-all approach to governance education.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d4466a7ea464b4c683dcf8a4588275714f2996a.jpg"></article>]]></description>
@@ -27,16 +37,6 @@ required. </p></article>]]></description>
             <link>http://www.wisegovernance.com.au/referral/index.html</link>
             <guid isPermaLink="false">c50e2aeb-b395-494a-8319-dd2b6b3bda65</guid>
             <pubDate>Thu, 14 Apr 2016 02:09:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Compliance ]]></title>
-            <description><![CDATA[<article><h1>Compliance </h1><p>Wise Governance can assist by firstly evaluating the gap between where
-the organisation is and where it should be with regards to compliance. Wise
-Governance can then tweak existing and/or develop new systems that can fill
-that gap, providing your Board with full peace of mind.</p></article>]]></description>
-            <link>http://www.wisegovernance.com.au/compliance/index.html</link>
-            <guid isPermaLink="false">61ba8977-87a6-44de-9192-208ec9823c42</guid>
-            <pubDate>Thu, 14 Apr 2016 02:08:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
