@@ -3,15 +3,15 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: |-
   Wise Governance can assist by firstly evaluating the gap between where
   the organisation is and where it should be with regards to compliance. Wise
   Governance can then tweak existing and/or develop new systems that can fill
   that gap, providing your Board with full peace of mind.
-datePublished: '2016-04-15T03:03:24.039Z'
-dateModified: '2016-04-15T03:02:51.939Z'
+datePublished: '2016-04-15T06:26:30.857Z'
+dateModified: '2016-04-15T06:25:11.102Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
