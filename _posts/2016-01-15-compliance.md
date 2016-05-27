@@ -1,40 +1,27 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: |-
-  Wise Governance can assist by firstly evaluating the gap between where
-  the organisation is and where it should be with regards to compliance. Wise
-  Governance can then tweak existing and/or develop new systems that can fill
-  that gap, providing your Board with full peace of mind.
-datePublished: '2016-04-15T06:26:48.557Z'
-dateModified: '2016-04-15T06:26:40.531Z'
+description: 'Wise Governance can assist by firstly evaluating the gap between where the organisation is and where it should be with regards to compliance. Wise Governance can then tweak existing and/or develop new systems that can fill that gap, providing your Board with full peace of mind.'
+datePublished: '2016-05-27T04:48:01.573Z'
+dateModified: '2016-05-27T04:47:53.155Z'
 title: 'Compliance '
 author: []
 sourcePath: _posts/2016-01-15-compliance.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: compliance/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Compliance 
 
-Wise Governance can assist by firstly evaluating the gap between where
-the organisation is and where it should be with regards to compliance. Wise
-Governance can then tweak existing and/or develop new systems that can fill
-that gap, providing your Board with full peace of mind.
+Wise Governance can assist by firstly evaluating the gap between where the organisation is and where it should be with regards to compliance. Wise Governance can then tweak existing and/or develop new systems that can fill that gap, providing your Board with full peace of mind.
 
-_What does your Board need to do to comply with the law, your own policies
-and best practice?_
+_What does your Board need to do to comply with the law, your own policies and best practice?_
 
 _Are risk management systems in place and are they being used?_
 
