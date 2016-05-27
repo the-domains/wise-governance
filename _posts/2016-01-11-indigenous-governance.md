@@ -1,34 +1,29 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: There is no one-size-fits-all approach to governance education.
-datePublished: '2016-04-15T06:25:58.619Z'
-dateModified: '2016-04-15T06:25:48.698Z'
+datePublished: '2016-05-27T04:48:34.216Z'
+dateModified: '2016-05-27T04:48:28.408Z'
 title: Education
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-11-indigenous-governance.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: education/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Education
 
-Wise Governance education begins by understanding what a Director already
-knows and then builds on that knowledge.
+Wise Governance education begins by understanding what a Director already knows and then builds on that knowledge.
 
-Wise Governance will work with your Board, at their pace and at their
-level, in order to maximise impact. 
+Wise Governance will work with your Board, at their pace and at their level, in order to maximise impact. 
 
 Foundational, practical and/or strategic governance knowledge and skill levels can be addressed.
 
