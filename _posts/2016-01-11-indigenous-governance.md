@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: There is no one-size-fits-all approach to governance education.
-datePublished: '2016-05-27T04:48:34.216Z'
-dateModified: '2016-05-27T04:48:28.408Z'
+datePublished: '2016-05-29T00:52:27.416Z'
+dateModified: '2016-05-29T00:52:17.092Z'
 title: Education
 author:
   - name: ''
