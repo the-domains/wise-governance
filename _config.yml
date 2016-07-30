@@ -34,6 +34,9 @@ navigation:
   - name: Referral
     id: c50e2aeb-b395-494a-8319-dd2b6b3bda65
     type: content
+  - name: About
+    id: 0b7202eb-ba8e-44de-95a6-b372b492a196
+    type: content
 favicon: null
 title: Wise Governance
 description: 'Education, Compliance, Referral'
