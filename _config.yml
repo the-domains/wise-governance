@@ -1,20 +1,20 @@
-typography_spectrum: 0.7734564775601029
+typography_spectrum: 0.39785
 color:
   brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
-  brandStrength: 0.44312013126909733
-  lightness: 0.5804646969772875
-  saturation: 0.8084093634970486
-  rhythmicContrast: 0.5284957650583237
+    - '#00a8e5'
+    - '#ddf2f2'
+    - '#030301'
+    - '#ff8200'
+    - '#7c340b'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.3267189438920468
+layout_spectrum: 0.25363
 analytics:
   google: UA-72902203-1
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Education
+    id: c4d5e0f6-aae9-43b6-97f1-079b41bcbb18
+    type: content
 favicon: null
 title: Wise Governance
 description: 'Education, Compliance, Referral'
