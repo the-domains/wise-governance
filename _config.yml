@@ -1,20 +1,4 @@
-name: Wise Governance
-favicon: null
-layout_spectrum: 0.25363
 typography_spectrum: 0.39785
-title: Wise Governance
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-72902203-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#00a8e5'
@@ -26,4 +10,20 @@ color:
   lightness: 1
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25363
+analytics:
+  google: UA-72902203-1
+  facebook: null
+  twitter: null
+name: Wise Governance
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Wise Governance
 purpose: []
