@@ -24,22 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Education
-    id: c4d5e0f6-aae9-43b6-97f1-079b41bcbb18
-    type: content
-  - name: 'Compliance '
-    id: 61ba8977-87a6-44de-9192-208ec9823c42
-    type: content
-  - name: Referral
-    id: c50e2aeb-b395-494a-8319-dd2b6b3bda65
-    type: content
-  - name: About
-    id: 0b7202eb-ba8e-44de-95a6-b372b492a196
-    type: content
-  - name: Contact
-    id: 71bea793-3c4f-4e6e-934c-fa342485d8e2
-    type: content
+navigation: []
 favicon: null
 title: Wise Governance
 description: 'Education, Compliance, Referral'
