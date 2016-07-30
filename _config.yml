@@ -1,15 +1,15 @@
-typography_spectrum: 0.7681298921816051
+typography_spectrum: 0.39785
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.3415979265701026
-  lightness: 0.957363254390657
-  saturation: 0.14485027571208775
-  rhythmicContrast: 0.6641394877806306
+    - '#00a8e5'
+    - '#ddf2f2'
+    - '#030301'
+    - '#ff8200'
+    - '#7c340b'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 opengraph:
   image: null
   type: null
@@ -33,6 +33,9 @@ navigation:
     type: content
   - name: Referral
     id: c50e2aeb-b395-494a-8319-dd2b6b3bda65
+    type: content
+  - name: About
+    id: 0b7202eb-ba8e-44de-95a6-b372b492a196
     type: content
 favicon: null
 title: Wise Governance
