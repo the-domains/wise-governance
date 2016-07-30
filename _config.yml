@@ -37,6 +37,9 @@ navigation:
   - name: About
     id: 0b7202eb-ba8e-44de-95a6-b372b492a196
     type: content
+  - name: Contact
+    id: 71bea793-3c4f-4e6e-934c-fa342485d8e2
+    type: content
 favicon: null
 title: Wise Governance
 description: 'Education, Compliance, Referral'
